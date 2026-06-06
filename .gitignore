@@ -13,10 +13,6 @@
 /client/.next
 /client/node_modules
 /server/node_modules
-/server/package-lock.json
-/server/package.json
-/client/package.json
-/client/package-lock.json
 /client/yarn.lock
 /server/yarn.lock
 
